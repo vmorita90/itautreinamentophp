@@ -1,4 +1,5 @@
 <dl>
+<title>Treinamento GAMA</title>
   <dt>Itau</dt>
   <dt>Treinamento Gama</dt>
   <dt>Vinicius Morita</dt>
