@@ -1,2 +1,12 @@
-Aula ensinando a fazer um deploy simples com CD
+<dl>
+  <dt>Itau</dt>
+  <dt>Treinamento Gama</dt>
+  <dt>Vinicius Morita</dt>
+  <dd>
+  Criando primeira pagina PHP
+    Teste 1 2 3 ...
 
+  </dd>
+
+  <!-- Other terms and descriptions -->
+</dl>
